@@ -6,6 +6,7 @@
 gitfiti _noun_ : Carefully crafted graffiti in a github commit history calendar.  
 
 An example of gitfiti in the wild:  
+![alt text](https://raw.github.com/madmatvey/gitfiti/master/accidental_penis.png "accidental penis")
 ![alt text](https://raw.github.com/gelstudios/gitfiti/master/gitfiti-screenshot.png "screenshot")
 
 `gitfiti.py` is a tool I wrote to decorate your github account's commit history calendar by (blatantly) abusing git's ability to accept commits _in the past_.
