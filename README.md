@@ -1,3 +1,6 @@
+# 📅🔙👨‍🎨 Accidental Penis
+## gitfiti with accidental penis template
+
 [![Build Status](https://travis-ci.org/gelstudios/gitfiti.svg?branch=master)](https://travis-ci.org/gelstudios/gitfiti)
 
 gitfiti _noun_ : Carefully crafted graffiti in a github commit history calendar.  
@@ -74,6 +77,6 @@ gitfiti is released under [The MIT license (MIT)](http://opensource.org/licenses
 - Seen something else? Submit a pull request or open an issue!
 
 
-  
-  
+
+
 ![alt text](http://f.cl.ly/items/0J463J0K1N020S1Q3E3l/er-small.png "tiny logo")
